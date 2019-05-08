@@ -7,7 +7,7 @@
     "mdlint": "node mdlint.js"
   },
   "devDependencies": {
-    "glob": "^7.1.1",
+    "glob": "^7.1.4",
     "markdownlint": "^0.3.0",
     "yarn": "^0.16.1"
   },
